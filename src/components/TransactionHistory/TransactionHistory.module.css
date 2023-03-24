@@ -1,0 +1,10 @@
+.transaction{
+    margin: 0px auto;
+    margin-bottom: 50px;
+}
+
+.head {
+    background-color: rgb(31, 155, 155);
+    color: white;
+    padding: 10px 70px;
+}

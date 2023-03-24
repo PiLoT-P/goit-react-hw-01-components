@@ -1,0 +1,14 @@
+.statistics{
+    background-color: white;
+    width: 500px;
+    margin: 0 auto;
+    padding-top: 20px;
+    margin-bottom: 50px;
+}
+.title{
+    margin-bottom: 20px;
+    text-align: center;
+}
+.list{
+    display: flex;
+}

@@ -1,0 +1,33 @@
+.item{
+    display: flex;
+    align-items: center;
+    width: 250px;
+    margin: 0px auto;
+    padding: 12px 0px;
+    background-color: white;
+    border-radius: 2px;
+}
+.item:not(:last-child){
+    margin-bottom: 20px;
+}
+
+.active{
+    background-color: green;
+    margin-left: 10px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+.disabled{
+    background-color: red;
+    margin-left: 10px;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+}
+.avatar{
+    margin-left: 10px;
+}
+.name{
+    margin-left: 15px;
+}
